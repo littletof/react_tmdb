@@ -1,0 +1,18 @@
+.results {
+  width: 70%;
+  margin: auto;
+
+  max-height: 80vh;
+  min-height: 50vh;
+  align-items: center;
+  overflow: auto;
+  padding: 1em;
+
+  .MuiAccordion-root {
+    width: 100%;
+  }
+
+  .MuiCircularProgress-root {
+    margin: auto;
+  }
+}
